@@ -27,7 +27,6 @@ public class Practice8DrawArcView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-
 //        练习内容：使用 canvas.drawArc() 方法画弧形和扇形
         //弧形
         Paint paint = new Paint();

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HenCoderPracticeDraw1.iml" filepath="$PROJECT_DIR$/HenCoderPracticeDraw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HencoderPractice1.iml" filepath="$PROJECT_DIR$/HencoderPractice1.iml" group="HencoderPractice1" />
+      <module fileurl="file://$PROJECT_DIR$/app/HencoderPractice1-app.iml" filepath="$PROJECT_DIR$/app/HencoderPractice1-app.iml" group="HencoderPractice1/app" />
       <module fileurl="file://$PROJECT_DIR$/PracticeDraw1-master.iml" filepath="$PROJECT_DIR$/PracticeDraw1-master.iml" group="PracticeDraw1-master" />
       <module fileurl="file://$PROJECT_DIR$/app/PracticeDraw1-master-app.iml" filepath="$PROJECT_DIR$/app/PracticeDraw1-master-app.iml" group="PracticeDraw1-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
