@@ -73,18 +73,5 @@ public class Practice10HistogramView extends View {
         pathItem.addRect(item5, Path.Direction.CW);
 
         canvas.drawPath(pathItem,paintItem);
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
